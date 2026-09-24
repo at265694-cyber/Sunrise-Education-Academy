@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://at265694-cyber.github.io/Sunrise-Education-Academy/sitemap.xml
